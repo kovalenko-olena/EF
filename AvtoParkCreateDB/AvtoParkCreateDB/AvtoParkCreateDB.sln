@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvtoParkCreateDB", "AvtoParkCreateDB\AvtoParkCreateDB.csproj", "{3EDA14CD-8B27-4F67-BDC0-6A31F6B7CE29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvtoParkTestDrive", "AvtoParkTestDrive\AvtoParkTestDrive.csproj", "{71079248-BE86-4031-A509-F1BCAA0042B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDA14CD-8B27-4F67-BDC0-6A31F6B7CE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDA14CD-8B27-4F67-BDC0-6A31F6B7CE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDA14CD-8B27-4F67-BDC0-6A31F6B7CE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDA14CD-8B27-4F67-BDC0-6A31F6B7CE29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71079248-BE86-4031-A509-F1BCAA0042B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71079248-BE86-4031-A509-F1BCAA0042B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71079248-BE86-4031-A509-F1BCAA0042B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71079248-BE86-4031-A509-F1BCAA0042B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2765901-5003-42B3-B9B6-D5927A2EDE49}
+	EndGlobalSection
+EndGlobal
